@@ -51,8 +51,11 @@
     - Protocol
     - TS01
     - TS02
-- Concur
+### Notes:
+
+## April 10th, 2024
 - Print WIs
+- Concur
 - Scan WIs
-- OCR WIs
 - Performance Review
+- OCR WIs
